@@ -13,7 +13,7 @@ Azərbaycan dilində proqramlaşdırma ilə bağlı resursları(youtube, telegra
 - [Backend Proqramlaşdırma](#backend-proqramlaşdırma)
 - [DevOps](#devops)
 - [Database](#database)
-- [Analtika](#analtika)
+- [Analitika](#analitika)
 - Digər
     - [Telegram Kanalları](#telegram-kanalları)
 
@@ -73,7 +73,7 @@ Azərbaycan dilində proqramlaşdırma ilə bağlı resursları(youtube, telegra
 - 🎥 [Zulfuqar Aliyev](https://www.youtube.com/@zulfuqaraliyev3881) - Oracle Sql
 
 
-### Analtika
+### Analitika
 - 🎥 [DataStat](https://www.youtube.com/@datastat7920) - Data science və Data analitika
 
 ### Telegram Kanalları
