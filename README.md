@@ -51,7 +51,7 @@ Azərbaycan dilində proqramlaşdırma ilə bağlı resursları(youtube, telegra
 - 🎥 [Samir Nəbiyev](https://www.youtube.com/@AzeriFire) - Java, Sql
 - 🎥 [Ayti Qaqash](https://www.youtube.com/@aytiqaqash) - Java, Spring, Python
 - 🎥 [Horumcek Toru](https://www.youtube.com/@HorumcekToruRR) - Java EE, ORM
-- 🎥 [Orxan Mamedov](hhttps://www.youtube.com/@OrxanMamedov) - Python, C#
+- 🎥 [Orxan Mamedov](https://www.youtube.com/@OrxanMamedov) - Python, C#
 - 🎥 [KODY•AZ](https://www.youtube.com/@kody_az) - Python, Swift, Php
 - 🎥 [Nurlan Valizada](https://www.youtube.com/@nurlanvalizada) - C#, ASP.NET
 - 🎥 [Vusal Huseynov](https://www.youtube.com/@huseynovvusal) - Python
