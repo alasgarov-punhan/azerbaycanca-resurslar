@@ -11,7 +11,9 @@ Azərbaycan dilində proqramlaşdırma ilə bağlı resursları(youtube, telegra
 - [Mobil Proqramlaşdırma](#mobil-proqramlaşdırma)
 - [Frontend Proqramlaşdırma](#frontend-proqramlaşdırma)
 - [Backend Proqramlaşdırma](#backend-proqramlaşdırma)
-- [DevOps, Tools](#devops-of-contents)
+- [DevOps](#devops)
+- [Database](#database)
+- [Analtika](#analtika)
 - Digər
     - [Telegram Kanalları](#telegram-kanalları)
 
@@ -60,7 +62,7 @@ Azərbaycan dilində proqramlaşdırma ilə bağlı resursları(youtube, telegra
 - 🎥 [Ingress Academy](https://www.youtube.com/@ingressacademy) - Java, DevOps, FrontEnd, Microsevices & K8S
 - 🎥 [RockDevs](https://www.youtube.com/@intelliacademy) - Java
 
-### DevOps, Tools
+### DevOps
 - 🎥 [Ayti Qaqash](https://www.youtube.com/@aytiqaqash) - Java, Spring, Python, Git
 - 🎥 [Ilkin Alibayli](https://www.youtube.com/@IlkinAlibayli) - Architecture
 - 🎥 [Cloud and Serverless community Azerbaijan](https://www.youtube.com/@CloudandServerlesscommunityAze)
