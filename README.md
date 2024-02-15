@@ -81,6 +81,17 @@ Azərbaycan dilində proqramlaşdırma ilə bağlı resursları(youtube, telegra
 - 💬 [elchinimanov](https://t.me/elchin_imanov)
 - 💬 [Cloud and Serverless community Azerbaijan](https://t.me/cloud_serverless_aze)
 - 💬 [javaDEVs](https://t.me/javadevs_az)
+- 💬 [.netDEVs](https://t.me/dotnetdevs_az)
+- 💬 [C# 🇦🇿 {csharp}](https://t.me/csharpazerbaycan)
+- 💬 [C# | WinApps | Web Api | MVC](https://t.me/c/1901519793/179)
+- 💬 [MSSQL](https://t.me/c/1901519793/178)
+- 💬 [MySQL](https://t.me/c/1901519793/182)
+- 💬 [flutterDEVs](https://t.me/flutterdevs_az)
+- 💬 [iosDEVs](https://t.me/iosdevs_az)
+- 💬 [frontDEVs](https://t.me/frontdevs_az)
+- 💬 [androDEVs](https://t.me/androdevs_az)
+- 💬 [techLIB](https://t.me/techlib_az)
+
 
 
 
